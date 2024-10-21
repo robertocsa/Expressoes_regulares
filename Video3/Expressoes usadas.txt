@@ -1,0 +1,10 @@
+
+Primeiro exemplo:
+No campo da expressão regular de busca:
+(.*\r\n)(.*\r\n)(.*\r\n)(.*\r\n)
+No campo de substituição:
+\4
+
+Segundo exemplo:
+No campo da expressão regular de busca:
+[A-Z]-.*R\$ [5-9]{1}[1-9,]{3,6}| [0-9,.]{7,10}

@@ -1,0 +1,14 @@
+Código	Nome	Data 	Valor
+G-345-348.45	Ada Lovelace	02/10/1964	R$ 125,35
+R-235-948.45	Noam Chomsky	01/05/2010	R$ 249,35
+A-345-34.47	Alan Turing	31/03/1988	R$ 247,85
+B-399-300.15	John Von Newman	02/10/1964	R$ 842,69
+C-333-366.45	Sanjoy Dasgupta	01/05/2010	R$ 710.126,44
+D-345-348.15	Donald Knuth	28/02/2001	R$ 462,92
+E-345-3848.25	Dennis Ritchie	17/03/1996	R$ 447,92
+F-345-348.25	Linus Torvalds	23/08/1943	R$ 10.560,20
+H-345-7848.45	Alonzo Church	23/06/1972	R$ 73.921,43
+C-355-341287.13	 Edsger Dijkstra	20/03/1996	R$ 68.456,43
+
+Notem que todas essas linhas apresentam valores acima de R$ 500,00, 
+tal como previsto na expressão de busca.
